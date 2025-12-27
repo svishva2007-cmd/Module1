@@ -12,7 +12,16 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
-
+~~~
+num=int(input())
+if(num%2==0):
+      print("Even")
+else:
+    print("Odd")
+~~~
 ## Output
+<img width="563" height="252" alt="image" src="https://github.com/user-attachments/assets/6b20e81e-2b1e-44f7-b5f3-793f651f0bfd" />
+
 
 ## Result
+Thus the program executed sucessfully
